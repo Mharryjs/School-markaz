@@ -1,0 +1,6 @@
+{
+  "name": "School Markaz",
+  "description": "School Markaz is a modern School Management System for managing students, teachers, attendance, exams, fees, payroll, income, expenses and school administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
